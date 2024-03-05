@@ -72,8 +72,9 @@
 
 ### 1. Login
 
-- Oauth로 간편 로그인 <br![%EB%A1%9C%EA%B7%B8%EC%9D%B8](https://github.com/dev1week/Code-Odyssey/assets/119592507/2b876ff7-ab46-46fd-9bec-0ee912c3f908)
->
+- Oauth로 간편 로그인 
+  ![%EB%A1%9C%EA%B7%B8%EC%9D%B8](https://github.com/dev1week/Code-Odyssey/assets/119592507/2b876ff7-ab46-46fd-9bec-0ee912c3f908)
+
   
 
 ### 2. My Page
