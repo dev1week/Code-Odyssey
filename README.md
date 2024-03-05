@@ -80,32 +80,32 @@
 ### 2. My Page
 
 - 내 프로필: 통계 보기 및 개인정보 수정 <br>
-![%EA%B0%9C%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%82%B4%ED%94%84%EB%A1%9C%ED%95%84](https://github.com/dev1week/Code-Odyssey/assets/119592507/e0dda7a9-dfb3-4a3f-ba3d-5b103503632a)
- <br>
+  ![%EA%B0%9C%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%82%B4%ED%94%84%EB%A1%9C%ED%95%84](https://github.com/dev1week/Code-Odyssey/assets/119592507/e0dda7a9-dfb3-4a3f-ba3d-5b103503632a)
+ 
 - 문제 찾기: 문제 검색 및 IDE로 연결 <br>
-![%EA%B0%9C%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%AC%B8%EC%A0%9C%EA%B2%80%EC%83%89](https://github.com/dev1week/Code-Odyssey/assets/119592507/38c944ab-371a-49ce-8312-ba203baab808)
- <br>
-![%EA%B8%B8%EB%93%9C%EC%B0%BD-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EC%99%84%EB%A3%8C__%EB%A6%AC%EB%B7%B0](https://github.com/dev1week/Code-Odyssey/assets/119592507/723051b5-a31b-417e-a322-0eeb01cae817)
-<br>
+  ![%EA%B0%9C%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%AC%B8%EC%A0%9C%EA%B2%80%EC%83%89](https://github.com/dev1week/Code-Odyssey/assets/119592507/38c944ab-371a-49ce-8312-ba203baab808)
+ 
+  ![%EA%B8%B8%EB%93%9C%EC%B0%BD-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EC%99%84%EB%A3%8C__%EB%A6%AC%EB%B7%B0](https://github.com/dev1week/Code-Odyssey/assets/119592507/723051b5-a31b-417e-a322-0eeb01cae817)
+
 - 스프린트 관리: 원하는 문제 유형 선택으로 편하게 문제 추천 및 지난 스프린트 확인 가능 <br>
-![%EA%B0%9C%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8](https://github.com/dev1week/Code-Odyssey/assets/119592507/4493515f-b3f7-4ac8-9f47-79d491433ff2)
- <br>
+  ![%EA%B0%9C%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8](https://github.com/dev1week/Code-Odyssey/assets/119592507/4493515f-b3f7-4ac8-9f47-79d491433ff2)
+ 
 ### 3. Guild
 
 - 길드 검색: 길드 검색 상세 조회 / 참가 신청 가능 <br>
-![%EC%84%A0%EC%B0%A9%EC%9E%A5-%EA%B8%B8%EB%93%9C%EA%B2%80%EC%83%89_%EA%B0%80%EC%9E%85%EC%8B%A0%EC%B2%AD](https://github.com/dev1week/Code-Odyssey/assets/119592507/bf21f08f-6c69-4c65-a504-c0f2b9d0c80c)
- <br>
+  ![%EC%84%A0%EC%B0%A9%EC%9E%A5-%EA%B8%B8%EB%93%9C%EA%B2%80%EC%83%89_%EA%B0%80%EC%9E%85%EC%8B%A0%EC%B2%AD](https://github.com/dev1week/Code-Odyssey/assets/119592507/bf21f08f-6c69-4c65-a504-c0f2b9d0c80c)
+ 
 - 길드 생성 및 조회: 길드 생성 후 관리 가능 <br>
-![%EC%84~2](https://github.com/dev1week/Code-Odyssey/assets/119592507/f72475fe-4734-4279-8984-927758662b2d)
-<br>
+  ![%EC%84~2](https://github.com/dev1week/Code-Odyssey/assets/119592507/f72475fe-4734-4279-8984-927758662b2d)
+
 - 길드창 <br>
 - 스프린트 생성/시작 <br>
  ![%EA%B8%B8%EB%93%9C%EC%B0%BD-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EC%8B%9C%EC%9E%91](https://github.com/dev1week/Code-Odyssey/assets/119592507/9790a7f5-7ac8-46ad-98a3-a7d7c889f4e2)
-<br>
+
 - 스프린트 완료/회고/리뷰 <br>
 - 길드 채팅 <br>
-![%EA%B8%B8%EB%93%9C%EC%B0%BD-%EC%B1%84%ED%8C%85](https://github.com/dev1week/Code-Odyssey/assets/119592507/a8b2acd9-980d-4e45-b824-b7e799329e99)
-<br>
+  ![%EA%B8%B8%EB%93%9C%EC%B0%BD-%EC%B1%84%ED%8C%85](https://github.com/dev1week/Code-Odyssey/assets/119592507/a8b2acd9-980d-4e45-b824-b7e799329e99)
+
 - 길드 관리 <br>
   
 ### 4. IDE
