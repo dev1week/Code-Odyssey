@@ -103,11 +103,14 @@
  ![%EA%B8%B8%EB%93%9C%EC%B0%BD-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EC%8B%9C%EC%9E%91](https://github.com/dev1week/Code-Odyssey/assets/119592507/9790a7f5-7ac8-46ad-98a3-a7d7c889f4e2)
 
 - 스프린트 완료/회고/리뷰 <br>
+![%EA%B8%B8%EB%93%9C%EC%B0%BD-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8%EC%99%84%EB%A3%8C__%EB%A6%AC%EB%B7%B0](https://github.com/dev1week/Code-Odyssey/assets/119592507/d5146189-a7ef-4925-932d-a19246377e19)
+
 - 길드 채팅 <br>
   ![%EA%B8%B8%EB%93%9C%EC%B0%BD-%EC%B1%84%ED%8C%85](https://github.com/dev1week/Code-Odyssey/assets/119592507/a8b2acd9-980d-4e45-b824-b7e799329e99)
 
 - 길드 관리 <br>
-  
+  ![%EC%84%A0%EC%B0%A9%EC%9E%A5-%EA%B8%B8%EB%93%9C%EA%B2%80%EC%83%89_%EA%B0%80%EC%9E%85%EC%8B%A0%EC%B2%AD](https://github.com/dev1week/Code-Odyssey/assets/119592507/a61b5928-bd91-4625-a19b-4c3a7abc3399)
+
 ### 4. IDE
 
 - 개인 IDE: 개별 채점 서버를 통한 input, output 체크 / 반례 등록, 조회 / 제출 기록 조회 / 변수명 조회 <br>
