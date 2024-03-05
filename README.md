@@ -113,7 +113,11 @@
 
 ### 4. IDE
 
-- 개인 IDE: 개별 채점 서버를 통한 input, output 체크 / 반례 등록, 조회 / 제출 기록 조회 / 변수명 조회 <br>
+- 개인 IDE: 개별 채점 서버를 통한 input, output 체크 및 익스텐션 활용 소스코드 제출, 반례 등록, 조회 / 제출 기록 조회 <br>
+  ![%EC%A0%9C%EC%B6%9C](https://github.com/dev1week/Code-Odyssey/assets/119592507/9d09b7b1-0539-43ee-a52b-7616da823101)
+- 변수명 조회 <br>
+  ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/68605f61-c44f-42c6-ba25-2ae73aea42cc)
+
  
 - 길드 IDE: 화상 채팅 / 공동 ide 작업 <br>
   ![%EA%B8%B8%EB%93%9CIDE](https://github.com/dev1week/Code-Odyssey/assets/119592507/3d15312d-edb3-4df9-92f7-17ffbf99aef5)
