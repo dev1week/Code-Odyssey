@@ -124,4 +124,31 @@
 
   
 - 제출: 익스텐션을 활용한 제출 <br>
+
+
+ ### 구현시 기여한 부분 
+ #### 문제 추천 시스템 
+- 다음 스코어 테이블이 유저와 1:1로 매핑되어있습니다.
+  ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/f9fbed77-f9a7-4622-b8d0-92e34d4a6718)
+
+- 때문에 문제 제출시 제출한 문제유형에 대해 난이도 값이 누적됩니다.
+- erd 관계상 모든 길드원의 유형별 난이도 총합을 구하고 유형별 길드원 제출수를 활용해 유형별 점수 평균을 구합니다.
+- 유형별 점수 평균 중 최소 점수 유형을 추천합니다. 때문에, 길드원이 취약한 유형의 문제를 추천받을 수 있습니다.
+  ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/59d7cb45-6200-4b3e-804f-9ba2d020df3d)
+
  
+#### 젠킨스, 도커 활용 MSA 배포 시스템 구축 
+- 전체 5대의 서버를 젠킨스와 도커를 활용해 ci/cd 환경을 구축하였습니다.
+  ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/788d7c52-f1ef-4cc2-9f15-0b3922dc244c)
+
+- 채점 서버의 보안상, 성능상 문제 때문에 MSA를 적용 및 설계하였습니다. 
+  ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/e01bbb78-e8a9-48cb-9bd8-5bad78c0b9ea)
+  ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/1125f320-1f97-4436-a6b3-4fc929ba46b6)
+
+
+#### 채점서버 성능 개선 
+- 독립된 환경및 오토스케일링을 구현하기 위해 aws 람다로 채점서버를 배포하였습니다.
+  ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/9f578b79-8787-4b7d-8922-6b19f979d1e8)
+  ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/ee1d9163-8f9a-44aa-b435-5f42ea3ba718)
+  ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/2ddc63d0-4480-4cec-bd68-ad141fcf19d0)
+
