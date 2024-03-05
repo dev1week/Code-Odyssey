@@ -104,7 +104,7 @@
 ### 4. IDE
 
 - 개인 IDE: 개별 채점 서버를 통한 input, output 체크 / 반례 등록, 조회 / 제출 기록 조회 / 변수명 조회 <br>
- ![로그인.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/e6fd84f3-cb0e-4f1a-bcec-6c3f1dca37c6/2cdb23c1-04ff-4659-bff6-147cf281a5d5/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
+ ![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/e6fd84f3-cb0e-4f1a-bcec-6c3f1dca37c6/2cdb23c1-04ff-4659-bff6-147cf281a5d5/%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
 - 길드 IDE: 화상 채팅 / 공동 ide 작업 <br>
   ![image](https://file.notion.so/f/f/e6fd84f3-cb0e-4f1a-bcec-6c3f1dca37c6/3ee35e12-4e66-4f42-a366-d73e2f10acdd/%EA%B8%B8%EB%93%9CIDE.gif?id=4c8a9188-062b-41c7-8f4d-a3dcc4f0e2d6&table=block&spaceId=e6fd84f3-cb0e-4f1a-bcec-6c3f1dca37c6&expirationTimestamp=1708365600000&signature=5K-k4kMA0yJT0cM-nOUP0_SqcRsAocD_Y5cOOfGtTu4)
 - 제출: 익스텐션을 활용한 제출 <br>
