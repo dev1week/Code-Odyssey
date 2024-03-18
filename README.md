@@ -151,3 +151,9 @@
   ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/ee1d9163-8f9a-44aa-b435-5f42ea3ba718)
   ![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/2ddc63d0-4480-4cec-bd68-ad141fcf19d0)
 
+
+#### 크롬 익스텐션 활용 백준/SWEA 플랫폼에서 제출 자동화 구현 
+![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/266a7e56-2211-4f1b-b472-a1c2f053cccb)
+![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/51738e31-1988-463f-88cf-5d827508fdd2)
+![image](https://github.com/dev1week/Code-Odyssey/assets/119592507/1336f762-b4fe-41a4-8ba9-e52d6b889d5e)
+
